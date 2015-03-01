@@ -1,2 +1,2 @@
 # light-framework
-Frist attempt at a framework
+First attempt at a framework
